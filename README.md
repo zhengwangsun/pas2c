@@ -3,6 +3,6 @@
 
 1.运行make编译，可运行文件pas2c；
 
-2.输入pascal源码文件；
+2.输入pascal源码文件(gcd.pas,quick_sort.pas)；
 
 3.运行后输出文件在当前目录下，最终转换为out.c文件。
