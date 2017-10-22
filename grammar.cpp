@@ -573,13 +573,6 @@ void GetFirstGroup(int num)            //求编号为num的生成式右部第sta
 					for(n=0;g[num].FIRST[n]!=-1&&g[num].FIRST[n]!=a[m]&&n<FIRSTnum;n++)
 						;
 					if(g[num].FIRST[n]==-1)
-					
-					
-					
-					
-					
-					
-					
 						g[num].FIRST[n]=a[m];
 				}
 			}
@@ -809,10 +802,6 @@ void CreatAnalysisTable(void)          //LL(1)分析表的创建函数
 		}
 	}
 }
-
-
-
-
 
 
 
